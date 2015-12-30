@@ -1,0 +1,14 @@
+@import "bootstrap.min.css";
+@import "bootstrap-theme.min.css";
+
+.row {
+    border: 1px solid black;
+}
+
+.col-md-1 {
+    background-color: #2aabd2;
+}
+
+.col-md-4 {
+    background-color: #67b168;
+}
