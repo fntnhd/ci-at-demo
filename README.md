@@ -1,2 +1,2 @@
 # ci-at-demo
-A simple continuous integration and acceptane test demo
+A simple continuous integration and acceptance test demo
